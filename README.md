@@ -1,11 +1,11 @@
 
-## Oi eu sou o Edson Martins de Araujo, estudante de programação e tecnologia!
+## Olá eu sou o Edson Martins de Araujo, estudante de programação e tecnologia!
 
 - 🔭 Atualmente trabalho prestando serviços a uma empresa do ramo de seguros.
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronome: Ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonMartinsAraujo&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonMartinsAraujo&show_icons=true&theme=chartreuse-dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdsonMartinsAraujo&repo=github-readme-stats)](https://github.com/EdsonMartinsAraujo/github-readme-stats)
 
 <div style="display: inline_block"><br>
